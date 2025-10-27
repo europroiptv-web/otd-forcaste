@@ -1,0 +1,81 @@
+{
+  "group_columns": [
+    "team",
+    "region"
+  ],
+  "target_column": "request_to_actual_hours",
+  "summaries": [
+    {
+      "team": "Alpha",
+      "region": "North",
+      "count": 2,
+      "p10": 62.400000000000006,
+      "p50": 120.0,
+      "p90": 177.60000000000002
+    },
+    {
+      "team": "Alpha",
+      "region": "South",
+      "count": 1,
+      "p10": 48.0,
+      "p50": 48.0,
+      "p90": 48.0
+    },
+    {
+      "team": "Alpha",
+      "region": "West",
+      "count": 1,
+      "p10": 48.0,
+      "p50": 48.0,
+      "p90": 48.0
+    },
+    {
+      "team": "Beta",
+      "region": "East",
+      "count": 1,
+      "p10": 96.0,
+      "p50": 96.0,
+      "p90": 96.0
+    },
+    {
+      "team": "Beta",
+      "region": "North",
+      "count": 1,
+      "p10": 144.0,
+      "p50": 144.0,
+      "p90": 144.0
+    },
+    {
+      "team": "Beta",
+      "region": "South",
+      "count": 1,
+      "p10": 120.0,
+      "p50": 120.0,
+      "p90": 120.0
+    },
+    {
+      "team": "Gamma",
+      "region": "East",
+      "count": 1,
+      "p10": 72.0,
+      "p50": 72.0,
+      "p90": 72.0
+    },
+    {
+      "team": "Gamma",
+      "region": "South",
+      "count": 1,
+      "p10": 96.0,
+      "p50": 96.0,
+      "p90": 96.0
+    },
+    {
+      "team": "Gamma",
+      "region": "West",
+      "count": 1,
+      "p10": 144.0,
+      "p50": 144.0,
+      "p90": 144.0
+    }
+  ]
+}

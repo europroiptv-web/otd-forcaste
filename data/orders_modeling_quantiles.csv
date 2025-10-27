@@ -1,0 +1,10 @@
+team,region,count,P10,P50,P90
+Alpha,North,2,62.4,120.0,177.6
+Alpha,South,1,48.0,48.0,48.0
+Alpha,West,1,48.0,48.0,48.0
+Beta,East,1,96.0,96.0,96.0
+Beta,North,1,144.0,144.0,144.0
+Beta,South,1,120.0,120.0,120.0
+Gamma,East,1,72.0,72.0,72.0
+Gamma,South,1,96.0,96.0,96.0
+Gamma,West,1,144.0,144.0,144.0

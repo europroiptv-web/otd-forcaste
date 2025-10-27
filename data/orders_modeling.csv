@@ -1,0 +1,11 @@
+order_id,team,region,requested_hours,request_to_promised_days,promised_to_actual_hours,request_to_actual_hours,request_weekday,request_month,is_weekend_request
+1001,Alpha,North,16.0,3,-24.0,48.0,Tuesday,1,False
+1002,Beta,South,24.0,3,48.0,120.0,Wednesday,1,False
+1003,Alpha,West,10.0,2,0.0,48.0,Friday,1,False
+1004,Gamma,East,32.0,4,-24.0,72.0,Monday,1,False
+1005,Beta,North,40.0,4,48.0,144.0,Tuesday,1,False
+1006,Alpha,South,12.0,3,-24.0,48.0,Thursday,1,False
+1007,Gamma,West,20.0,4,48.0,144.0,Friday,1,False
+1008,Beta,East,28.0,5,-24.0,96.0,Monday,1,False
+1009,Alpha,North,36.0,6,48.0,192.0,Tuesday,1,False
+1010,Gamma,South,18.0,5,-24.0,96.0,Thursday,1,False
